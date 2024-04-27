@@ -1,4 +1,4 @@
-import './App.css'
+import Header from "./components/header/Header"
 
 function App() {
 
@@ -6,7 +6,7 @@ function App() {
 
     <div>
 
-      <h1 className='text-blue-600'>Vite + React</h1>
+      <Header></Header>
 
     </div>
 
