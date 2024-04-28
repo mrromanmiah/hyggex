@@ -26,7 +26,6 @@ To set up the project locally, follow these steps:
     ```bash
     npm install
 
-
  ## Usage
 
 Once the project is set up, you can run it locally with the following command: 
