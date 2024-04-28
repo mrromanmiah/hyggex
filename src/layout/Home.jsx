@@ -22,10 +22,10 @@ const Home = () => {
         { text: '3p + 4q − 5p + 2q + 8' }
     ];
     return (
-        <div className="lg:px-20">
+        <div className="lg:px-20 md:px-10 px-5">
             <Breadcrumbs></Breadcrumbs>
             <div>
-                <h1 className="text-3xl font-bold bg-gradient-to-b from-[#06286E] to-[#164EC0] inline-block text-transparent bg-clip-text mt-8">Relations and Functions ( Mathematics )</h1>
+                <h1 className="lg:text-3xl md:text-xl text-lg font-bold bg-gradient-to-b from-[#06286E] to-[#164EC0] inline-block text-transparent bg-clip-text mt-8">Relations and Functions ( Mathematics )</h1>
             </div>
             <AllTabs></AllTabs>
             <Carousel slides={slides}></Carousel>
