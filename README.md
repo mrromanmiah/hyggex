@@ -28,9 +28,7 @@ To set up the project locally, follow these steps:
 
  ## Usage
 
-Once the project is set up, you can run it locally with the following command: 
-    ```bash
-    npm run dev 
+Once the project is set up, you can run it locally with the following command: `npm run dev` 
 
 This command will start the development server and open the application in your default web browser. If the browser doesn't open automatically, you can visit http://localhost:5173 to view the application. 
 
