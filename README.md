@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
  ## Usage
 
- Once the project is set up, you can run it locally with the following command:
+Once the project is set up, you can run it locally with the following command: 
     ```bash
     npm run dev 
 
