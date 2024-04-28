@@ -7,8 +7,8 @@ import {
 } from "react-router-dom";
 import Root from './layout/Root.jsx';
 import Home from './layout/Home.jsx';
-import Flashcard from './components/header/flashcard/Flashcard.jsx';
-import Contact from './components/header/contact/Contact.jsx';
+import Flashcard from './components/flashcard/Flashcard.jsx';
+import Contact from './components/contact/Contact.jsx';
 import Faq from './components/faq/Faq.jsx';
 
 const router = createBrowserRouter([
