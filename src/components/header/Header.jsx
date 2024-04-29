@@ -2,7 +2,7 @@
 import { NavLink } from "react-router-dom";
 const Header = () => {
     return (
-        <div className="drawer">
+        <div className="drawer relative z-20">
             <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
             <div className="drawer-content flex flex-col">
                 <div className="w-full navbar lg:px-20 md:px-6 px-2">

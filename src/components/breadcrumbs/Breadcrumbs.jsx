@@ -2,7 +2,7 @@ import { GoHome } from "react-icons/go";
 
 const Breadcrumbs = () => {
     return (
-        <div className="lg:text-sm md:text-xs text-xs font-medium breadcrumbs mt-8">
+        <div className="lg:text-sm md:text-xs text-[10px] font-medium breadcrumbs mt-8">
             <ul>
                 <li className="text-lg "><a><GoHome /></a></li>
                 <li><a>Flashcard</a></li>
