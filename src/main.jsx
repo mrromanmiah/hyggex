@@ -7,9 +7,9 @@ import {
 } from "react-router-dom";
 import Root from './layout/Root.jsx';
 import Home from './layout/Home.jsx';
-import Flashcard from './components/flashcard/Flashcard.jsx';
-import Contact from './components/contact/Contact.jsx';
-import Faq from './components/faq/Faq.jsx';
+import Flashcard from './pages/flashcard/Flashcard.jsx';
+import Contact from './pages/contact/Contact.jsx';
+import Faq from './pages/faq/Faq.jsx';
 
 const router = createBrowserRouter([
   {
