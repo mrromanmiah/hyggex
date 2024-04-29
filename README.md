@@ -1,5 +1,5 @@
 # HyggeX
-## https://hyggex-task-sage.vercel.app/
+## https://hyggex-world.vercel.app/
 
 ## Description
 
